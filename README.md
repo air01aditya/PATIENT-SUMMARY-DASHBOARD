@@ -6,6 +6,8 @@ A clean, lightweight **Power BI** dashboard for visualizing patient summaries â€
 Built to **quickly summarize patient data** in a compact view.
 
 ---
+![Dashboard Preview](assets/dashboard.png)
+
 
 ## ðŸš€ Overview
 
