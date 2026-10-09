@@ -1,6 +1,6 @@
-# 🩺 Patient Summary Dashboard
+# Patient Summary Dashboard
 
-A clean, lightweight **Power BI** dashboard for visualizing patient summaries — fast insights.
+A **Power BI** dashboard that shows a summary of patient data on one page.
 
 
 Built to **quickly summarize patient data** in a compact view.
@@ -9,23 +9,23 @@ Built to **quickly summarize patient data** in a compact view.
 ![Dashboard Preview](assets/dashboard.png)
 
 
-## 🚀 Overview
+## Overview
 
 - **Patient Overview Cards**: Age, gender, last visit, risk score  
 - **Timeline / Visit History**: Track patient visits over time  
-- **Interactive Filters**: Filter by department, clinician, or date  a
+- **Interactive Filters**: Filter by department, clinician, or date
 
 ---
 
-## 📁 Project Files
+## Project Files
 
-- `patient-summary.pbix` — Power BI report.
-- `assets/dashboard.png` — Dashboard screenshot. 
-- `assets/banner.png` — Project banner image.
+- `patient-summary.pbix`: Power BI report.
+- `assets/dashboard.png`: Dashboard screenshot. 
+- `assets/banner.png`: Project banner image.
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. Download the `.pbix`..  
 2. Open it in **Power BI Desktop**.  
@@ -37,7 +37,7 @@ Built to **quickly summarize patient data** in a compact view.
 
 ---
 
-## 🚧 What's Next 
+## What's Next 
 
 - Add **multi-page drill-down** (visits, labs, notes)  
 - Build **export to PDF**.
@@ -46,7 +46,7 @@ Built to **quickly summarize patient data** in a compact view.
 
 
 ---
-## 🤝 Contribute
+## Contribute
 - Fork the repo  
 - Create a branch: `git checkout -b feature/your-idea`  
 - Commit: `git commit -m "Add my improvement"`  
