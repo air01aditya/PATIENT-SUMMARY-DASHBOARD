@@ -1,55 +1,11 @@
 # Patient Summary Dashboard
 
-A **Power BI** dashboard that shows a summary of patient data on one page.
+A one-page Power BI dashboard that summarises patient data: age, gender, last visit, risk score
+and visit history, with filters by department, clinician and date.
 
+![Dashboard preview](assets/dashboard.png)
 
-Built to **quickly summarize patient data** in a compact view.
+## Open it
 
----
-![Dashboard Preview](assets/dashboard.png)
-
-
-## Overview
-
-- **Patient Overview Cards**: Age, gender, last visit, risk score  
-- **Timeline / Visit History**: Track patient visits over time  
-- **Interactive Filters**: Filter by department, clinician, or date
-
----
-
-## Project Files
-
-- `patient-summary.pbix`: Power BI report.
-- `assets/dashboard.png`: Dashboard screenshot. 
-- `assets/banner.png`: Project banner image.
-
----
-
-## How to Use
-
-1. Download the `.pbix`..  
-2. Open it in **Power BI Desktop**.  
-3. To load your own data:  
-   - Go to **Transform Data**  
-   - Select **Edit Queries**  
-   - Update the data source to point to your own CSV, Excel, or database  
-4. Refresh the report and start exploring.
-
----
-
-## What's Next 
-
-- Add **multi-page drill-down** (visits, labs, notes)  
-- Build **export to PDF**.
-- Introduce **conditional alerts** / risk highlighting. 
-- Add **sample dataset** (CSV).
-
-
----
-## Contribute
-- Fork the repo  
-- Create a branch: `git checkout -b feature/your-idea`  
-- Commit: `git commit -m "Add my improvement"`  
-- Push & open a Pull Request
-
----
+Download `patient-summary.pbix` and open it in Power BI Desktop. To use your own data, go to
+**Transform Data**, point the source at your CSV, Excel file or database, then refresh.
